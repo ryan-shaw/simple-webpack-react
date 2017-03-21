@@ -8,7 +8,7 @@
     "start": "webpack-dev-server --progress --profile --colors",
     "build": "webpack --progress --profile --colours"
   },
-  "author": "Ryan Shaw <ryan.shaw@spatialbuzz.net>",
+  "author": "Ryan Shaw <ryan.shaw@min.vc>",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.14.0",
